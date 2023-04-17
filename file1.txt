@@ -1,3 +1,3 @@
-test file
+test FILE
 
 Ky eshte nje file i ri per test.
